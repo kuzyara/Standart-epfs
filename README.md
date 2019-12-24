@@ -1,7 +1,8 @@
 # Standart-epfs-embedded
 Извлечение встроенных стандартных обработок из ресурсов платформы 1С
 
-mngbase_ru.res в папке bin
+* mngbase_ru.res в папке bin
+* 8.3.9
 
 ![Image of Yaktocat](https://github.com/kuzyara/Standart-epfs/blob/master/2019-12-24_11-12-17.png?raw=true)
 
